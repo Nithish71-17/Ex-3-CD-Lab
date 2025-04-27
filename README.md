@@ -1,7 +1,7 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 
-# NAME: NIRMAL N
-# REG NO: 212223240107
+# NAME: NITHISH GS
+# REG NO: 212223043004
 
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
